@@ -1,0 +1,4 @@
+.cards__button :active {
+  opacity: 0.1;
+}
+
